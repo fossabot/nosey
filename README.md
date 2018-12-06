@@ -6,6 +6,8 @@ NoseyExplorer is a simple explorer that lets you see the data that Realm.io has 
 Simply register your models and your ready to start browsing your data from within your app.
 
 ## Usage
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblad%2Fnosey.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblad%2Fnosey?ref=badge_shield)
+
 
 ### Including NoseyExplorer:
 
@@ -55,3 +57,6 @@ Nosey.getInstance(context)
 > WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 > See the License for the specific language governing permissions and
 > limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblad%2Fnosey.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblad%2Fnosey?ref=badge_large)
